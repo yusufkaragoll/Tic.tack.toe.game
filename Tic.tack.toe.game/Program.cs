@@ -196,7 +196,7 @@ namespace Tic.tack.toe.game
                 Console.WriteLine("WELCOME TO Tic.tack.toe.game ");
                 Console.WriteLine("PRESS TO ACCESS MENU");
                 Console.WriteLine("1. start a new game ");
-                Console.WriteLine("3. Exit ");
+                Console.WriteLine("2. Exit");
             }
         }
     }
